@@ -1,15 +1,15 @@
-# Total.js + Vue.js Boilerplate (No SSR) 
+# Total.js + Vue.js with Livereload
 
 Using Vue components in Total.js' views
 
 ## Dependencies
-* Total.js 2.x.x
+* Total.js 3.x.x
 * Vue.js 2.x.x
 
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/KwanLamC/totaljs-vuejs-boilerplate.git
+git clone https://github.com/flashvnn/total-vue.git
 ```
 
 2. Install totaljs globally because the build.js will be minified using Total.js minify command
