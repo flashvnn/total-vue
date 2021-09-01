@@ -9,7 +9,7 @@
     "prod:rename": "mv ./public/js/build.min.js ./public/js/build.js"
   },
   "dependencies": {
-    "total.js": "^3.4.0",
+    "total.js": "^3.4.9",
     "vue": "^2.3.3"
   },
   "devDependencies": {
